@@ -1,0 +1,30 @@
+/* element */
+body{
+    background-color: rgb(220, 39, 193);
+}
+h2{
+    background-color: blanchedalmond !important;
+    background-color: rgb(183, 0, 34);
+    background-color: pink;
+
+}
+/* id */
+#first_id{
+    background-color: greenyellow;
+}
+/* attribure */
+li[draggable="true"]{
+    background-color: blueviolet;
+}
+/* element */
+li{
+    background-color:darkcyan;
+}
+/* descendant */
+ul>li{
+    background-color:palegreen;
+}
+/* ecternal css */
+p{
+    background-color: aqua;
+}
